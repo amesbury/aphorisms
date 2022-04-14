@@ -2,8 +2,10 @@
 
 1. All new technologies will include new paths for exploit.
 1. Host-based firewalls are discretionary access controls, not mandatory access controls.
-1. The people who copied your data without your approval or permission probably don't have your best interests in mind.  Related:
+1. The people who copied your data without your approval or permission probably don't have your best interests in mind.
     1. Once data has become accessible by someone else, you are no longer in exclusive control of that data.
     1. What goes on the Internet stays on the Internet.
-1. If you expose the management controls of your device to the Internet, the Internet _will_ attempt to manage that device.  Related:  Most vendors' products are not designed to be managed by the Internet.
+1. If you expose the management controls of your device to the Internet, the Internet _will_ attempt to manage that device.
+    1. Most vendors' products are not designed to be managed by the Internet.
+    1. Most vendors' products that are designed to be directly exposed to the Internet are _still_ not designed by be managed _by_ the Internet.
 1. The Internet excels at transporting data, whether you like it or not.
